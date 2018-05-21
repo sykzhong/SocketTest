@@ -1,0 +1,5 @@
+﻿  SocketServer.cpp
+e:\cloud\research\vision\sockettest\sockettest\socketserver.cpp(96): warning C4018: “<”: 有符号/无符号不匹配
+e:\cloud\research\vision\sockettest\sockettest\socketserver.cpp(102): warning C4018: “<”: 有符号/无符号不匹配
+Main.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall SocketServer::SocketServer(void)" (??0SocketServer@@QAE@XZ)，该符号在函数 _main 中被引用
+E:\Cloud\Research\Vision\SocketTest\Debug\SocketTest.exe : fatal error LNK1120: 1 个无法解析的外部命令
